@@ -2,10 +2,11 @@
 Data Commons datasets code to subsample.
 
 For each dataset:
-1. create code to download raw dataset
-2. create code to subsample raw dataset
-3. create code to process raw dataset
-4. create README to point back to data portal and to this code
+1. provide links to all the formats for each dataset eg. FASTQ format, CRAM format, VCF format
+2. create code to download raw dataset
+3. create code to subsample raw dataset
+4. create code to process raw dataset
+5. create README to point back to data portal and to this code
 
 
 
