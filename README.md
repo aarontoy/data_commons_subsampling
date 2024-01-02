@@ -17,7 +17,7 @@ Scarpa et al and also Sean Grimmond from cBioPortal
 
 https://www.cbioportal.org/study/summary?id=panet_arcnet_2017 
 
-This is a WGS with 98 samples/patients.  Raw data is here - https://ega-archive.org/studies/EGAS00001001732?order=file_types&sort=asc
+This is a WGS with 98 samples/patients.  Accession EGAS00001001732 is here: - https://ega-archive.org/studies/EGAS00001001732?order=file_types&sort=asc - Please use the ICGC website for applying for access to the data: https://ega-archive.org/dacs/EGAC00001000010
 
 It also has the non-identifiable clinical data available too. 
 
