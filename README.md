@@ -17,7 +17,7 @@ Scarpa et al and also Sean Grimmond from cBioPortal
 
 https://www.cbioportal.org/study/summary?id=panet_arcnet_2017 
 
-This is a WGS with 98 samples/patients.  
+This is a WGS with 98 samples/patients.  Raw data is here - https://ega-archive.org/studies/EGAS00001001732?order=file_types&sort=asc
 
 It also has the non-identifiable clinical data available too. 
 
