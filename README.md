@@ -1,6 +1,13 @@
 # data_commons_subsampling
 Data Commons datasets code to subsample.
 
+For each dataset:
+1. create code to download raw dataset
+2. create code to subsample raw dataset
+3. create code to process raw dataset
+4. create README to point back to data portal and to this code
+
+
 
 # 1. Public WGS - Pancreatic Neuroendocrine Tumors (Multi-Institute, Nature 2017) 
 
