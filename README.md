@@ -58,7 +58,7 @@ Need to subsample the dataset so that it takes up about 50MB for all raw, proces
 
  
 
- Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
+Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
 
  
 
@@ -67,6 +67,19 @@ Need to subsample the dataset so that it takes up about 50MB for all raw, proces
 # 6. Spatial Omics 
 
 
- Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
+Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
+
+Integrating spatial gene expression and breast tumour morphology via deep learning
+
+https://www.nature.com/articles/s41551-020-0578-x
+
+https://aquila.cheunglab.org/view/9ae7dd552df4fc33c918695e9e9f49cc
 
 
+https://github.com/bryanhe/ST-Net
+
+https://data.mendeley.com/datasets/29ntw7sh4r/5
+
+Triplicates from 23 breast cancer patients with luminal a, luminal b, triple-negative, and HER2-positive subtypes. Please refer to metadata.csv for patient, replicate, and subtype associations.
+
+Using space ranger - files needed for space ranger is explained here - https://www.10xgenomics.com/support/software/space-ranger/analysis/inputs/input-overview
