@@ -1,3 +1,5 @@
+import sys
+import os
 
 
 def create_file(file_name):
@@ -9,10 +11,21 @@ def create_file(file_name):
 
 
 
-file_name = 'panet_arcnet_2017_clinical_data.tsv'
+
+if len(sys.argv) < 2:
+    print("Usage: python script_name.py file_path")
+    sys.exit(1)
+
+file_path = sys.argv[1]
+
+if not os.path.isfile(file_path):
+    print("Error: not a valid file_path.")
+    sys.exit(1)
+
+
 
 # Read the content of the file and display the first column of each row
-with open(file_name, 'r') as file:
+with open(file_path, 'r') as file:
     lines = file.readlines()
 
 # Remove the first row

@@ -24,6 +24,8 @@ It also has the non-identifiable clinical data available too.
 Need to subsample so that all 98 patients/samples take up about 500MB for all FASTQ, CRAM, and vcf files.
 
 
+Run this in public_wgs folder:  python create_placeholder_files.py panet_arcnet_2017_clinical_data.tsv
+
 # 2. Private small WGS (even though it is WES) Pancreatic Neuroendocrine Tumors (Johns Hopkins University, Science 2011) 
 
 
@@ -37,6 +39,9 @@ Ludwig Center for Cancer Genetics and Howard Hughes Medical Institutions, Johns 
 This has 10 samples. 
 
 Need to subsample so that all 10 patients/samples take up about 50MB for all FASTQ, CRAM, and vcf files.
+
+Run this in private_wgs folder: python ../public_wgs/create_placeholder_files.py panet_jhu_2011_clinical_data.tsv
+
 
 # 3. Bulk RNASeq  
 
@@ -63,3 +68,5 @@ Need to subsample the dataset so that it takes up about 50MB for all raw, proces
 
 
  Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
+
+

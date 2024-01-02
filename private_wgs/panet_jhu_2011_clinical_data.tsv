@@ -1,0 +1,11 @@
+Patient ID	Sample ID	Mutation Count	Sex	Metastatic Site	Neoplasm Histologic Grade	Tissue Sequenced	TMB (nonsynonymous)	Tumor Stage
+PEN10	PanNET10PT	22	Male	liver	3	Liver	0.73333333	IV
+PEN21	PanNET21PT	10	Male	liver	2	Pancreas	0.36666667	IV
+PEN23	PanNET23PT	19	Female	liver	2	Pancreas	0.63333333	IV
+PEN24	PanNET24PT	19	Male	liver	2	Pancreas	0.6	IV
+PEN25	PanNET25PT	15	Female	liver	2	Liver	0.46666667	IV
+PEN3	PanNET3PT	15	Female	liver	2	Pancreas	0.5	IV
+PEN31	PanNET31PT	20	Male	liver	2	Pancreas	0.66666667	IV
+PEN36	PanNET36PT	8	Male		1	Pancreas	0.26666667	IIIb
+PEN7	PanNET7PT	10	Female	liver	1	Pancreas	0.33333333	IV
+PEN93	PanNET93PT	15	Male	liver	1	Liver	0.5	IV
