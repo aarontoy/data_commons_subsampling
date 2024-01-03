@@ -1,5 +1,5 @@
 # data_commons_subsampling
-Data Commons datasets code to subsample.
+Data Commons datasets code to subsample based off [the Data Commons project](https://github.com/WEHI-ResearchComputing/data-commons/wiki).
 
 For each dataset:
 1. provide links to all the formats for each dataset eg. FASTQ format, CRAM format, VCF format
