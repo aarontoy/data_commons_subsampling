@@ -26,7 +26,7 @@ Need to subsample so that all 98 patients/samples take up about 500MB for all FA
 
 Run this in public_wgs folder:  python create_placeholder_files.py panet_arcnet_2017_clinical_data.tsv
 
-# 2. Private small WGS (even though it is WES) Pancreatic Neuroendocrine Tumors (Johns Hopkins University, Science 2011) 
+# 2. Private small WGS (even though it is WES) - Pancreatic Neuroendocrine Tumors (Johns Hopkins University, Science 2011) 
 
 
 https://www.cbioportal.org/study/summary?id=panet_jhu_2011 
@@ -64,7 +64,7 @@ Need to subsample the dataset so that it takes up about 500MB for all raw, proce
 
  
 
-# 6. Spatial Omics 
+# 6. Spatial Omics - Integrating spatial gene expression and breast tumour morphology via deep learning
 
 
 Need to subsample the dataset so that it takes up about 500MB for all raw, processed, and summary files.
