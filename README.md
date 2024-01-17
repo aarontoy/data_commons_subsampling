@@ -83,3 +83,5 @@ https://data.mendeley.com/datasets/29ntw7sh4r/5
 Triplicates from 23 breast cancer patients with luminal a, luminal b, triple-negative, and HER2-positive subtypes. Please refer to metadata.csv for patient, replicate, and subtype associations.
 
 Using space ranger - files needed for space ranger is explained here - https://www.10xgenomics.com/support/software/space-ranger/analysis/inputs/input-overview
+
+Can use this dataset from 10x Genomics - but you do need to give them your email address: https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard
