@@ -75,6 +75,7 @@ https://www.nature.com/articles/s41551-020-0578-x
 
 https://aquila.cheunglab.org/view/9ae7dd552df4fc33c918695e9e9f49cc
 
+Follow information from this tutorial - https://pachterlab.github.io/voyager/articles/visium_10x.html
 
 https://github.com/bryanhe/ST-Net
 
