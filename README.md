@@ -86,3 +86,21 @@ Triplicates from 23 breast cancer patients with luminal a, luminal b, triple-neg
 Using space ranger - files needed for space ranger is explained here - https://www.10xgenomics.com/support/software/space-ranger/analysis/inputs/input-overview
 
 Can use this dataset from 10x Genomics - but you do need to give them your email address: https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard
+
+
+# 7. Spatial Omics - Visium CytAssist Gene Expression Libraries of Post-Xenium Human Colon Cancer (FFPE)
+
+Spatial Omics raw data using Visium technology. This experiment analyses 4 tissue samples: two replicates of experimental samples and two replicates of control samples.
+
+Each sample’s raw data consists of one of each: TIFF, JSON, BTF, CSV and FASTQS, which takes up about 10-20GB. 
+
+Within the FASTQS file, contains four fastq files – four capture slides.
+
+
+https://www.10xgenomics.com/datasets/visium-cytassist-gene-expression-libraries-of-post-xenium-human-colon-cancer-ffpe-using-the-human-whole-transcriptome-probe-set-2-standard  
+
+	
+Watch 10x genomic’s video on Visium Spatial Gene Expression Solution to understand how Visum works -  https://www.youtube.com/watch?v=VwNk4d-0RJc   
+
+
+
